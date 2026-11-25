@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
     int a = 10, b = 5;
 
@@ -14,5 +14,5 @@ int main()
 
     printf("Modulus = %d\n", 10 % 5);
 
-    return 0;
+    
 }
